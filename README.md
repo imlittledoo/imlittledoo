@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hiya, ImLittledoo here!</h1>
-<h3 align="center">Full-Stack Developer based from Lebanon 🇱🇧</h3>
+<h3 align="center">Full-Stack Developer based from Lebanon 🇫🇷</h3>
 
 <p align="center">
   Building stuff, breaking stuff, fixing it after 😭
@@ -25,11 +25,11 @@
 <h3 align="center">📊 GitHub stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imlittledoo&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlittledoo&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlittledoo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlittledoo&theme=tokyonight" />
 </p>
 
 ---
