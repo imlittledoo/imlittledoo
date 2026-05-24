@@ -24,16 +24,10 @@
 
 <h3 align="center">📊 GitHub stats</h3>
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlittledoo&theme=tokyonight" />
-    </td>
-    <td align="right" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlittledoo&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlittledoo&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlittledoo&theme=tokyonight" />
+</div>
 
 ---
 
