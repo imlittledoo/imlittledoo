@@ -32,5 +32,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imlittledoo&label=profile%20views&color=0e75b6&style=flat" />
+  <img width="48%" src="https://komarev.com/ghpvc/?username=imlittledoo&label=profile%20views&color=0e75b6&style=flat" />
 </p>
