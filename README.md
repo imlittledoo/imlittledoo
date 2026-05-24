@@ -24,13 +24,10 @@
 
 <h3 align="center">📊 GitHub stats</h3>
 
-<p align="right">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlittledoo&theme=tokyonight" />
-</p>
-
-<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlittledoo&theme=tokyonight" />
-</p>
+</div>
 
 ---
 
