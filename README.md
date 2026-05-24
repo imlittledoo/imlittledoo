@@ -1,7 +1,13 @@
-<h1 align="center">:wave: Hello, I'm Mythical</h1>
-<h2 align="center">Full-Stack Developer from Europe / Czech Republic</h2>
+<h1 align="center">👋 Hiya, ImLittledoo here!</h1>
+<h3 align="center">Full-Stack Developer based from Lebanon 🇱🇧</h3>
 
-<h3 align="center">LANGUAGES & TOOLS:</h3>
+<p align="center">
+  Building stuff, breaking stuff, fixing it after 😭
+</p>
+
+---
+
+<h3 align="center">⚙️ Languages & tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,html,css,mysql,nginx,nodejs,python&theme=dark" />
@@ -14,6 +20,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
+<h3 align="center">📊 GitHub stats</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imlittledoo&label=Profile%20views&color=0e75b6&style=flat" alt="mythical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imlittledoo&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlittledoo&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imlittledoo&label=profile%20views&color=0e75b6&style=flat" />
 </p>
