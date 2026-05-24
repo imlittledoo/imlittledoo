@@ -24,11 +24,11 @@
 
 <h3 align="center">📊 GitHub stats</h3>
 
-<p align="center">
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imlittledoo&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imlittledoo&theme=tokyonight" />
 </p>
 
