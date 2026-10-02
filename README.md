@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hiya, Andrew here!</h1>
 <h3 align="center">Full-Stack Developer based from France 🇫🇷</h3>
 
-<p align="center">
-  Building stuff, breaking stuff, fixing it after 😭
-</p>
-
 ---
 
 <h3 align="center">⚙️ Languages & tools</h3>
